@@ -24,6 +24,8 @@
 		8DA65D8D198E3F72005EE11F /* AsyncUITableviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA65D8C198E3F72005EE11F /* AsyncUITableviewTests.swift */; };
 		8DA65D97198E438D005EE11F /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA65D96198E438D005EE11F /* MyTableViewController.swift */; };
 		8DB28114198FB77C007CCCA9 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB28113198FB77C007CCCA9 /* MyTableViewCell.swift */; };
+		8DF5BCB3199075B500AB7052 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8DF5BCB1199075B500AB7052 /* Default-568h@2x.png */; };
+		8DF5BCB4199075B500AB7052 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8DF5BCB2199075B500AB7052 /* Default@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +67,8 @@
 		8DA65D8C198E3F72005EE11F /* AsyncUITableviewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncUITableviewTests.swift; sourceTree = "<group>"; };
 		8DA65D96198E438D005EE11F /* MyTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 		8DB28113198FB77C007CCCA9 /* MyTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
+		8DF5BCB1199075B500AB7052 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8DF5BCB2199075B500AB7052 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 		8D66BDF7198FBA5C003A19D3 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				8DF5BCB1199075B500AB7052 /* Default-568h@2x.png */,
+				8DF5BCB2199075B500AB7052 /* Default@2x.png */,
 				8D66BDF8198FBA9D003A19D3 /* 1.png */,
 				8D66BDF9198FBA9D003A19D3 /* 2.png */,
 				8D66BDFA198FBA9D003A19D3 /* 3.png */,
@@ -250,8 +256,10 @@
 				8D66BE02198FBA9D003A19D3 /* 1.png in Resources */,
 				8DA65D7F198E3F71005EE11F /* Main.storyboard in Resources */,
 				8D66BE06198FBA9D003A19D3 /* 5.png in Resources */,
+				8DF5BCB3199075B500AB7052 /* Default-568h@2x.png in Resources */,
 				8D66BE03198FBA9D003A19D3 /* 2.png in Resources */,
 				8D66BE07198FBA9D003A19D3 /* 6.png in Resources */,
+				8DF5BCB4199075B500AB7052 /* Default@2x.png in Resources */,
 				8DA65D81198E3F71005EE11F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
