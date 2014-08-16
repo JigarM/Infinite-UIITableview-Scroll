@@ -37,11 +37,11 @@ Infinite Scroll Indicator :
 
 
 ============================
-<h1>Require</h1>
+# Require
 OSX 10.9.3 and Xcode 6.x (beta for now)
 
-Swift
----
+# Swift
+===========
 
 This project will highlight a few of the core language features about Swift, but I would read through these documents, I found them useful to learn more about Swift and understanding teh structure and syntax of the language:
 
@@ -51,7 +51,12 @@ This project will highlight a few of the core language features about Swift, but
 * [__Swift Language Highlights by Matt Galloway__](http://www.raywenderlich.com/73997/swift-language-highlights)
 
 
-## License
+
+# Development
+
+* [Jigar Maheshwar](http://twitter.com/jigar0809)
+
+# License
 
           The MIT License (MIT)
         
