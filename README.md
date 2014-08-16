@@ -54,7 +54,7 @@ This project will highlight a few of the core language features about Swift, but
 
 # Development
 
-* [Jigar Maheshwar](http://twitter.com/jigar0809)
+* [Jigar Maheshwari](http://twitter.com/jigar0809)
 
 # License
 
