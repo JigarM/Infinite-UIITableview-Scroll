@@ -24,15 +24,15 @@ Simple Tests of Swift Language (no Objective-C)
 
 Appicon :
 
-![](http://i1282.photobucket.com/albums/a534/jigarm_0809/iOSSimulatorScreenShot05-Aug-201474538am_zpsf1a2e774.png)
+![](http://i1282.photobucket.com/albums/a534/jigarm_0809/2b3fe572-4ee1-42be-8b1c-80843ebca280_zpsc1f93eb2.png)
 
 UITableView :
 
-![](http://i1282.photobucket.com/albums/a534/jigarm_0809/iOSSimulatorScreenShot05-Aug-201474543am_zps83b5f2c5.png)
+![](http://i1282.photobucket.com/albums/a534/jigarm_0809/d5150334-f95b-447b-97ef-f3a06e3ae8fd_zpseed70ca4.png)
 
 Infinite Scroll Indicator : 
 
-![](http://i1282.photobucket.com/albums/a534/jigarm_0809/iOSSimulatorScreenShot05-Aug-201474547am_zpsae9b5267.png)
+![](http://i1282.photobucket.com/albums/a534/jigarm_0809/04dece20-7718-4f8f-92ae-7ef4e6a717b8_zpsa60fc493.png)
 
 
 
